@@ -1,0 +1,25 @@
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\bin\Debug\net5.0-windows\WPF Layout Examples.exe
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\bin\Debug\net5.0-windows\WPF Layout Examples.deps.json
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\bin\Debug\net5.0-windows\WPF Layout Examples.runtimeconfig.json
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\bin\Debug\net5.0-windows\WPF Layout Examples.runtimeconfig.dev.json
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\bin\Debug\net5.0-windows\WPF Layout Examples.dll
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\bin\Debug\net5.0-windows\ref\WPF Layout Examples.dll
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\bin\Debug\net5.0-windows\WPF Layout Examples.pdb
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\Window1.g.cs
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples_MarkupCompile.cache
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples_MarkupCompile.lref
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\Window1.baml
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples.g.resources
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples.AssemblyInfoInputs.cache
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples.AssemblyInfo.cs
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples.dll
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\ref\WPF Layout Examples.dll
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples.pdb
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\WPF Layout Examples.genruntimeconfig.cache
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\Window2.g.cs
+C:\Users\user.COMP-02\source\repos\WPF Layout Examples\WPF Layout Examples\obj\Debug\net5.0-windows\Window2.baml

@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPF_Layout_Examples.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Layout_Examples"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel LastChildFill="True">
+            <Button DockPanel.Dock="Top" Background="Red" Content="1 (Top)" />
+            <Button DockPanel.Dock="Left" Background="Orange" Content="2 (Left)" />
+            <Button DockPanel.Dock="Right" Background="Yellow" Content="3 (Right)" />
+            <Button DockPanel.Dock="Bottom" Background="Lime" Content="4 (Bottom)" />
+            <Button DockPanel.Dock="Right" Background="Aqua" Content="5 (Full)" Click="Click2"/>
+        </DockPanel>
+    </Grid>
+</Window>
